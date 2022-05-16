@@ -3,6 +3,6 @@
 -  Python,
 -  GMS2, 
 -  Modding Minecraft with Java, 
--  Website Development, 
+-  Website Development (HTML and CSS), 
 -  and Unity/C#, as well as dabbling in operating systems.
 
