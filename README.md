@@ -6,3 +6,4 @@
 -  Website Development (HTML and CSS), 
 -  and Unity/C#, as well as dabbling in operating systems.
 
+(I hate C# with a burning passion)
