@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @T4R1N
+- Hi, I’m Tarin
 
